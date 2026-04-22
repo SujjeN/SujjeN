@@ -1,5 +1,5 @@
 # Hi, I'm Sujan Thapa!
-### System/Network Engineer | IT Professional | Cybersecurity Enthusiast
+### Experienced System Engineer | IT Professional
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujanthapa2)
 
@@ -21,10 +21,13 @@
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/-Active_Directory-003087?style=for-the-badge&logo=microsoft&logoColor=white)
+![SCCM/MECM](https://img.shields.io/badge/-SCCM%2FMECM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Office 365 Admin](https://img.shields.io/badge/-Office_365_Admin-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ### Networking
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/-Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 
 ---
 
@@ -35,4 +38,7 @@
 - Introduction to Cybersecurity (Cisco)
 - Microsoft 365 Certified: Endpoint Administrator Associate
 - Microsoft 365 Certified: Modern Desktop Administrator Associate
+- Technical Support Fundamentals (Coursera)
+- CompTIA Network+ (N10-007) Cert Prep: 4 Making TCP/IP Work
+- Microsoft Office 365: Administration (Office 365/Microsoft 365)
 - CompTIA A+

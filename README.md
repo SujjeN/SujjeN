@@ -26,11 +26,16 @@
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-### Cloud
-![Azure](https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
 ---
 
 ## 📋 IT Certifications:
-- CompTIA Network+
-- Microsoft Azure Fundamentals (AZ-900)
+- CCNA (Cisco)
+- CompTIA Network+ ce Certification
+- Microsoft 365 Certified: Administrator Expert
+- Introduction to Cybersecurity (Cisco)
+- Microsoft 365 Certified: Endpoint Administrator Associate
+- Microsoft 365 Certified: Modern Desktop Administrator Associate
+- Technical Support Fundamentals (Coursera)
+- CompTIA Network+ (N10-007) Cert Prep: 4 Making TCP/IP Work
+- Microsoft Office 365: Administration (Office 365/Microsoft 365)
+- CompTIA A+

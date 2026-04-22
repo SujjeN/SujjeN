@@ -38,7 +38,5 @@
 - Introduction to Cybersecurity (Cisco)
 - Microsoft 365 Certified: Endpoint Administrator Associate
 - Microsoft 365 Certified: Modern Desktop Administrator Associate
-- Technical Support Fundamentals (Coursera)
-- CompTIA Network+ (N10-007) Cert Prep: 4 Making TCP/IP Work
 - Microsoft Office 365: Administration (Office 365/Microsoft 365)
 - CompTIA A+

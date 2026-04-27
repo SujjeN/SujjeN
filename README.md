@@ -13,6 +13,9 @@
 - **Active Directory with PowerShell**
   - [Deploying AD users in Bulk using .csv file](https://github.com/SujjeN/AD-users-using-Powershell)
 
+- **Deploy PnetLab on Proxmox**
+  - [Automated shell script to deploy PnetLab network emulator on Proxmox VE](https://github.com/SujjeN/Deploy-Pnet-on-Proxmox)
+
 ---
 
 ## 🛠️ System & Network Tools:

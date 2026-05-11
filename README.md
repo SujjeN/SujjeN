@@ -8,16 +8,16 @@
 ## 🖥️ IT Projects:
 
 - **Network Lab Portfolio**
-+-[Network configurations, VLANs, routing protocols, and firewall setups](https://github.com/SujjeN/Network-lab-portfolio)
+- [Network configurations, VLANs, routing protocols, and firewall setups](https://github.com/SujjeN/Network-lab-portfolio)
 
 - **Active Directory with PowerShell**
-+-[Deploying AD users in Bulk using .csv file](https://github.com/SujjeN/AD-users-using-Powershell)
+- [Deploying AD users in Bulk using .csv file](https://github.com/SujjeN/AD-users-using-Powershell)
 
 - **Deploy PnetLab on Proxmox**
-+-[Automated shell script to deploy PnetLab network emulator on Proxmox VE](https://github.com/SujjeN/Deploy-Pnet-on-Proxmox)
+- [Automated shell script to deploy PnetLab network emulator on Proxmox VE](https://github.com/SujjeN/Deploy-Pnet-on-Proxmox)
 
 - **Packet Lens**
-+-[Browser-based PCAP/PCAPNG analyzer with ladder-flow diagram and deep protocol decoding](https://github.com/SujjeN/Packet-lens)
+- [Browser-based PCAP/PCAPNG analyzer with ladder-flow diagram and deep protocol decoding](https://github.com/SujjeN/Packet-lens)
 
 ---
 

@@ -7,7 +7,7 @@
 
 - **Network Lab Portfolio**
   
-  [Network configurations, VLANs, routing protocols, and firewall setups](https://github.com/SujjeN/Network-lab-portfolio)
+  [3 Area OSPF](https://github.com/SujjeN/Network-lab-portfolio)
   
   [OSPF-multi-area-network-types-OSPF-area-authenticatin-Discontiginous-Area](https://github.com/SujjeN/OSPF-multi-area-network-types-OSPF-area-authenticatin-Discontiginous-Area)
 

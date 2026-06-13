@@ -8,6 +8,7 @@
 - **Network Lab Portfolio**
   
   [Network configurations, VLANs, routing protocols, and firewall setups](https://github.com/SujjeN/Network-lab-portfolio)
+  https://github.com/SujjeN/OSPF-multi-area-network-types-OSPF-area-authenticatin-Discontiginous-Area
 
 - **Active Directory with PowerShell**
   

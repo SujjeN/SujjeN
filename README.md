@@ -9,8 +9,9 @@
   
   [Network configurations, VLANs, routing protocols, and firewall setups](https://github.com/SujjeN/Network-lab-portfolio)
   
-  https://github.com/SujjeN/OSPF-multi-area-network-types-OSPF-area-authenticatin-Discontiginous-Area
+  [OSPF-multi-area-network-types-OSPF-area-authenticatin-Discontiginous-Area](https://github.com/SujjeN/OSPF-multi-area-network-types-OSPF-area-authenticatin-Discontiginous-Area)
 
+  
 - **Active Directory with PowerShell**
   
   [Deploying AD users in Bulk using .csv file](https://github.com/SujjeN/AD-users-using-Powershell)

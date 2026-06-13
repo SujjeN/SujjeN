@@ -12,7 +12,7 @@
   [OSPF-multi-area-network-types-OSPF-area-authenticatin-Discontiginous-Area](https://github.com/SujjeN/OSPF-multi-area-network-types-OSPF-area-authenticatin-Discontiginous-Area)
 
   
-**System & Platform**
+- **System & Platform**
   
   [Active Directory with PowerShell | Deploying AD users in Bulk using .csv file](https://github.com/SujjeN/AD-users-using-Powershell)
   

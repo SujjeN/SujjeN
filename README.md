@@ -12,11 +12,9 @@
   [OSPF-multi-area-network-types-OSPF-area-authenticatin-Discontiginous-Area](https://github.com/SujjeN/OSPF-multi-area-network-types-OSPF-area-authenticatin-Discontiginous-Area)
 
   
-- **Active Directory with PowerShell**
+**System & Platform**
   
-  [Deploying AD users in Bulk using .csv file](https://github.com/SujjeN/AD-users-using-Powershell)
-
-- **System & Platform**
+  [Active Directory with PowerShell | Deploying AD users in Bulk using .csv file](https://github.com/SujjeN/AD-users-using-Powershell)
   
   [Automated shell script to deploy PnetLab network emulator on Proxmox VE](https://github.com/SujjeN/Deploy-Pnet-on-Proxmox)
 

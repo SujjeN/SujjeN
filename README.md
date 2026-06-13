@@ -16,13 +16,13 @@
   
   [Deploying AD users in Bulk using .csv file](https://github.com/SujjeN/AD-users-using-Powershell)
 
-- **Deploy PnetLab on Proxmox**
+- **System & Platform**
   
   [Automated shell script to deploy PnetLab network emulator on Proxmox VE](https://github.com/SujjeN/Deploy-Pnet-on-Proxmox)
 
-- **Packet Lens**
+- **Applications**
   
-  [Browser-based PCAP/PCAPNG analyzer with ladder-flow diagram and deep protocol decoding](https://github.com/SujjeN/Packet-lens)
+  [Packet Lens | Browser-based PCAP/PCAPNG analyzer with ladder-flow diagram and deep protocol decoding](https://github.com/SujjeN/Packet-lens)
 
 
 ## 🛠️ System & Network Tools:
